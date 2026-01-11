@@ -7,8 +7,8 @@ Currently, I'm working on the [Organized app](https://github.com/sws2apps/organi
 
 🎨 Product Designer with 7 years of experience.<br>
 💡 Always learning new skills and exploring new tech.<br>
-🌐 Happy to collaborate with developers on impactful projects!
+🌐 Happy to collaborate on impactful projects!
 
 ### Current project: Organized App
 
-🚀 I'm actively contributing to the design and development of the [Organized](https://github.com/sws2apps/organized-app) – a tool designed to assist everyone in Jehovah’s Witnesses congregations.
+🚀 I'm actively contributing to the design, localization and development of the [Organized](https://github.com/sws2apps/organized-app) – a tool designed to assist everyone in Jehovah’s Witnesses congregations.
